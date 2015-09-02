@@ -8,7 +8,7 @@ namespace calculator
 {
     class Program
     {
-        static void Main(string[] args)
+        static void Main(string[] args) //main method
         {
             
             string input1, input2, op;
